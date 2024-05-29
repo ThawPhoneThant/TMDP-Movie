@@ -1,0 +1,23 @@
+/* Movies */
+
+.card-img{
+  width: 300px ;
+  height: 350px;
+  @apply rounded-lg
+}
+
+.play-icon{
+  display: none;
+}
+
+.play-icon:hover{
+  display: inline;
+}
+
+/* details */
+
+.m-img{
+  width: 500px;
+}
+
+

@@ -1,0 +1,9 @@
+.m-img{
+    width: 70%;
+    height: 620px;
+    margin:auto;
+    /* border: 2px solid white; */
+  
+    @apply rounded-lg
+
+}
